@@ -6,8 +6,10 @@
 - 📫 você pode entrar em contato comigo atravez do email - bryanzef7@gmail.com ou whatsapp 51 994394422
 - No momento estudando HTML - CSS - JAVASCRIPT - PYTHON - NODEJS
 <h2> HardSkills </h2>
-<p><strong>HTML </strong> </p>
-<p><strong> </strong> </p>
+<li> <p><strong>HTML </strong> </p> </li>
+<li> <p><strong>CSS </strong> </p> </li>
+<li> <p><strong>Bootstrap </strong> </p> </li>
+<li> <p><strong>  Lógica </strong> </p> </li>
 <!---
 Bryanzef/Bryanzef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
