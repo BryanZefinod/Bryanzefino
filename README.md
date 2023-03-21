@@ -4,7 +4,7 @@
 -  👀 Estou a procura de algo que possa me integrar e me preparar para o mercado da area de programação e tecnologia, seja estágio, trainee ou assistente,
 -  o importante será a experiencia que poderei adquirir
 - 📫 você pode entrar em contato comigo atravez do email - bryanzef7@gmail.com ou whatsapp 51 994394422
-- No momento estudando HTML - CSS - JAVASCRIPT - PYTHON - NODEJS
+- No momento estudando Java - Python e um curso avançado de js
 <h2> HardSkills </h2>
 <li> <strong>HTML </strong>  </li>
 <li> <strong>CSS </strong>  </li>
