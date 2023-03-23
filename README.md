@@ -54,6 +54,6 @@
 28
 ## ⭐ Informações sobre minha conta GitHub
 29
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pBryanzef&show_icons=true)
 30
 
