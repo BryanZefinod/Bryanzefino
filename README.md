@@ -1,11 +1,4 @@
-- 👋 Olá, I’m @Bryanzef
-- 🤖 Tenho interesse em ser um dev ful-stack dominando o maximo de tecnologias possiveis, mas tudo com o tempo e com muito estudo.
-- ✍️ Estou fazendo Faculdade de Analise e desenvolvimento de sistemas com duração de 3 anos pela UCS.
--  👀 Estou a procura de algo que possa me integrar e me preparar para o mercado da area de programação e tecnologia, seja estágio, trainee ou assistente,
--  o importante será a experiencia que poderei adquirir
-- 📫 você pode entrar em contato comigo atravez do email - bryanzef7@gmail.com ou whatsapp 51 994394422
-- No momento estudando Java - Python e um curso avançado de js
-<h2> HardSkills </h2>
+- <h1>👋 Olá, I’m @Bryanzef </h1>
 <li> <strong>HTML </strong>  </li>
 <li> <strong>CSS </strong>  </li>
 <li> <strong>Bootstrap </strong>  </li>
@@ -29,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Bryan" height="150" style="border-radius:50px;" src="https://bryandeveloper.netlify.app/assets/profile/Cyber1.png">
 </div>
   
   ##
