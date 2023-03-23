@@ -1,31 +1,59 @@
-- <h1>👋 Olá, I’m @Bryanzef </h1>
-<h3> Sou Estudante de Análise e desenvolvimento de Sistemas e um Futuro dev <span> Full Stack</span> </h3>
-<!---
-Bryanzef/Bryanzef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<div><br>
-  <span> Essas são minhas Habilidades Principais: </span>
-  <ul>
-    <li><i class="fa-brands fa-html5" style="color: #ff0000;"></i> </li>
-     <li><i class="fa-brands fa-css3-alt" style="color: #ff0000;"></i> </li>
-      <li><i class="fa-brands fa-react" style="color: #ff0000;"></i> </li>
-    <li>    <i class="fa-brands fa-square-js" style="color: #ff0000;"></i> </li>
-    <li><i class="fa-brands fa-github" style="color: #ff0000;"></i> </li>
-    <li><i class="fa-brands fa-react" style="color: #ff0000;"></i> </li>
-    
-    
+## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+2
+​
+3
+> Faça uma breve aprensentação sobre você e a sua área.
+4
+​
+5
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+6
+​
+7
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+8
+​
+9
+----
+10
+​
+11
+## 🚀 Minhas Skills
+12
+​
+13
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+14
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+15
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+16
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+17
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+18
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+19
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+20
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+21
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+22
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+23
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+24
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+25
+​
+26
+---
+27
+​
+28
+## ⭐ Informações sobre minha conta GitHub
+29
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+30
 
-  </ul>
-</div>
-  
- 
-<div> 
-
-  <a href="https://instagram.com/bryanzef7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  <a href = "bryanzef7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/bryanzefino/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-<script src="https://kit.fontawesome.com/3880d83a86.js" crossorigin="anonymous"></script>
