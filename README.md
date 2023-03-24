@@ -2,11 +2,23 @@
 
 ## <h2 align="center">Sou Estudante de Sistemas e como foco e sem ser um dev Full Stack</h2> <br/>
 
+### <div align="center"> Estou empenhado em me tornar um desenvolvedor altamente qualificado e experiente. Desde que comecei a aprender a programar, me apaixonei pela capacidade de criar soluções criativas para resolver problemas e estou sempre ansioso para aprender mais.</div> <br/> <br/>
+
+## <div align="center" style=" background-color: rgba(0, 0, 0, 0.548); ">Saiba Mais Sobre Mim<a href="https://bryandeveloper.netlify.app/"> Aqui! </a></div> <br/>
+
+## <div align="center"><img style="width: 280px;" src="https://bryandeveloper.netlify.app/assets/profile/Cyber1.png" alt=""> </div><br/>
+
+## <br/>
+
+---
+
 ## <div align="center" style="font-size:18; font-weight: 500;" > 🌐Essas São minhas redes Sociais </div>
 
 ## <div align="center"> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bryanzef7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryanzefino/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bryandeveloper) </div><br/>
 
 ## <div align="center" style="font-size:18; font-weight: 500;" > 💻 Essas São as Tech Stacks que uso frequentemente </div>
+
+---
 
 ## <div align="center">
 
@@ -37,10 +49,11 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) <br/> </div>
-<br/>
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) </div> <br/>>
 
-## <div align="center" >📊 GitHub Stats </div>
+---
+
+## <br/><div align="center" >📊 GitHub Stats </div>
 
 ## <div align="center"  >![](https://github-readme-stats.vercel.app/api?username=bryanzef&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/></div>
 
