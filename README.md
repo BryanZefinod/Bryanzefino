@@ -1,5 +1,5 @@
-<h1> Olá, eu me chamo Bryan e sou Estudante de sistemas </h1>
-<h2> <span> Meu Objetivo como Programador é ser um dev Full Stack </span> </h2>
+<h1 align="center">Hi 👋, I'm Bryan</h1>
+<h3 align="center">Sou Estudante de Sistemas e como foco e sem ser um dev Full Stack</h3>
 <br/>
 
 <h3>🌐Essas São minhas redes Socials: </h3>
