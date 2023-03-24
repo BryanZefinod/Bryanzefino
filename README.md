@@ -1,9 +1,10 @@
-#<h1> Olá, eu me chamo Bryan e sou Estudante de sistemas </h1>
-##<h2> <span> Meu Objetivo como Programador é ser um dev Full Stack </span> </h2>
-🌐Essas São minhas redes Socials:
+<h1> Olá, eu me chamo Bryan e sou Estudante de sistemas </h1>
+<h2> <span> Meu Objetivo como Programador é ser um dev Full Stack </span> </h2>
+<h3>🌐Essas São minhas redes Socials: </h3>
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bryanzef7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryanzefino/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bryandeveloper) 
 
-# 💻 Essas São as Tech Stacks que uso frequentemente:
+<h3> 💻 Essas São as Tech Stacks que uso frequentemente:</h3>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) |
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)|
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) |
@@ -20,7 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)|
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)| 
 ---------------------------------------------------------------------------------------------------------------
-# 💻 Já Usei em alguns Projetos Pessoais e tenho algum Conhecimento:
+</h3> 💻 Já Usei em alguns Projetos Pessoais e tenho algum Conhecimento: </h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 ![Java](https://img.shields.io/badge/java-3670A0?style=flat&logo=java&logoColor=ffdd54) |
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
