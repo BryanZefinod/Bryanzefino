@@ -4,13 +4,13 @@
 
 ### <div align="center"> Estou empenhado em me tornar um desenvolvedor altamente qualificado e experiente. Desde que comecei a aprender a programar, me apaixonei pela capacidade de criar soluções criativas para resolver problemas e estou sempre ansioso para aprender mais.</div> <br/> <br/>
 
-## <div align="center" style=" background-color: rgba(0, 0, 0, 0.548); ">Saiba Mais Sobre Mim<a href="https://bryandeveloper.netlify.app/"> Aqui! </a></div> <br/>
+## <div align="center" style=" background-color: rgba(0, 0, 0, 0.548); ">Saiba Mais Sobre Mim<a href="https://bryandeveloper.netlify.app/"  target="_blank"> Aqui! </a></div> <br/>
 
 ## <div align="center"><img style="width: 280px;" src="https://bryandeveloper.netlify.app/assets/profile/Cyber1.png" alt=""> </div><br/>
 
 ## <br/>
 
----
+
 
 ## <div align="center" style="font-size:18; font-weight: 500;" > 🌐Essas São minhas redes Sociais </div>
 
@@ -18,7 +18,7 @@
 
 ## <div align="center" style="font-size:18; font-weight: 500;" > 💻 Essas São as Tech Stacks que uso frequentemente </div>
 
----
+
 
 ## <div align="center">
 
@@ -51,7 +51,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) </div> <br/>>
 
----
+
 
 ## <br/><div align="center" >📊 GitHub Stats </div>
 
