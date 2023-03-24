@@ -21,7 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)|
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)| 
 ---------------------------------------------------------------------------------------------------------------
-</h3> 💻 Já Usei em alguns Projetos Pessoais e tenho algum Conhecimento: </h3>
+<h3> 💻 Já Usei em alguns Projetos Pessoais e tenho algum Conhecimento: </h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 ![Java](https://img.shields.io/badge/java-3670A0?style=flat&logo=java&logoColor=ffdd54) |
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
