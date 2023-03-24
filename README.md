@@ -1,8 +1,6 @@
-
-##<h1> Olá, eu me chamo Bryan e sou Estudante de sistemas </h1>
+#<h1> Olá, eu me chamo Bryan e sou Estudante de sistemas </h1>
 ##<h2> <span> Meu Objetivo como Programador é ser um dev Full Stack </span> </h2>
-## 🌐Essas São minhas redes Socials:
-## 🌐 Socials:
+🌐Essas São minhas redes Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bryanzef7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryanzefino/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bryandeveloper) 
 
 # 💻 Essas São as Tech Stacks que uso frequentemente:
