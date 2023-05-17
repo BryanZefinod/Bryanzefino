@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Bryan</h1>
 
-## <h2 align="center">Sou Estudante de Sistemas e como foco e sem ser um dev Full Stack</h2> <br/>
+## <h2 align="center">Sou Estudante de Sistemas e como foco e sem ser um dev Full Stack</h2>
 
 ### <div align="center"> Estou empenhado em me tornar um desenvolvedor altamente qualificado e experiente. Desde que comecei a aprender a programar, me apaixonei pela capacidade de criar soluções criativas para resolver problemas e estou sempre ansioso para aprender mais.</div>
 
@@ -29,8 +29,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)</div> <br/>
-<br/>
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)</div>
+
 
 ## <div align="center" style="font-size:18; font-weight: 500;" > 💻Já Usei em alguns Projetos Pessoais e tenho algum Conhecimento:
 
@@ -43,7 +43,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) </div> <br/>>
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) </div>
 
 
 ## <div align="center" >📊 GitHub Stats </div>
