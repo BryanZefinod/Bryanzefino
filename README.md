@@ -10,15 +10,11 @@
 
 ## <br/>
 
-
-
 ## <div align="center" style="font-size:18; font-weight: 500;" > 🌐Essas São minhas redes Sociais </div>
 
 ## <div align="center"> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bryanzef7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryanzefino/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bryandeveloper) </div><br/>
 
 ## <div align="center" style="font-size:18; font-weight: 500;" > 💻 Essas São as Tech Stacks que uso frequentemente </div>
-
-
 
 ## <div align="center">
 
@@ -50,7 +46,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) </div> <br/>>
-
 
 
 ## <br/><div align="center" >📊 GitHub Stats </div>
