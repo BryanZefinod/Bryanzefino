@@ -4,7 +4,7 @@
 
 ### <div align="center"> Estou empenhado em me tornar um desenvolvedor altamente qualificado e experiente. Desde que comecei a aprender a programar, me apaixonei pela capacidade de criar soluções criativas para resolver problemas e estou sempre ansioso para aprender mais.</div> <br/> <br/>
 
-## <div align="center" style=" background-color: rgba(0, 0, 0, 0.548); ">Saiba Mais Sobre Mim<a href="https://bryandeveloper.netlify.app/"  target="_blank" target_blank> Aqui! </a></div> <br/>
+## <div align="center" style=" background-color: rgba(0, 0, 0, 0.548); ">Saiba Mais Sobre Mim<a href="https://bryandeveloper.netlify.app/"  target="_blank" target_blank> Aqui! </a></div>
 
 ## <div align="center"><img style="width: 280px;" src="https://bryandeveloper.netlify.app/assets/profile/Cyber1.png" alt=""> </div><br/>
 
