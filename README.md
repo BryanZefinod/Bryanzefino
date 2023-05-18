@@ -1,3 +1,5 @@
+![Cobrinha comendo os commits](https://github.com/Bryanzef/Bryanzef/raw/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/98066200?v=4"  />
 </div>
