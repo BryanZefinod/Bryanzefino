@@ -68,5 +68,4 @@
   </p>
 </div>
 
-  [![Bryanzef](https://github-readme-streak-stats.herokuapp.com/?user=Bryanzef)](https://github.com/Bryanzef)
 
