@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-<h3 align="center">🤖 Outras Tecnologias que já utilizei em projetos</h3>
+<h3 align="center">🤖 Outras Tecnologias que já utilizei em projetos e uso com frequencia</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
